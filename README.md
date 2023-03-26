@@ -1,6 +1,5 @@
 # My-Resume-Dashboard
-
-#Resume Dashboard
+Resume Dashboard
 I creatively used a power BI Dashboard to showcase by resume
 
 Find the link to interact with my resume here. 
